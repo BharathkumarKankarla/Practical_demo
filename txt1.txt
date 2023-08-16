@@ -1,2 +1,3 @@
-Hello this is txt file
-today i have breakfast
+Hello this is txt file 
+today i have breakfast i had dosa
+I had idli
